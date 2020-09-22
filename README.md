@@ -21,6 +21,8 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 ```
 $ git clone https://github.com/imcmurray/Plutus-fastecdsa.git
 
+$ sudo apt-get install python3-dev libgmp3-dev
+
 $ cd Plutus-fastecdsa && pip3 install -r requirements.txt
 ```
 
